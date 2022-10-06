@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.principalSection{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#pikachu{
+  width:20rem;
+}
