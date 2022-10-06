@@ -19,3 +19,16 @@ code {
 #pikachu{
   width:20rem;
 }
+button{
+  background-color: blue;
+  color: white;
+  height: 3em;
+  border-radius: 2em;
+  margin: 1em;
+}
+#selectOption{
+  width: 10em;
+  height: 3em;
+  text-align: center;
+  font-size: 1em;
+}
