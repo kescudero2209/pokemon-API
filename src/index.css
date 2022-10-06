@@ -32,3 +32,15 @@ button{
   text-align: center;
   font-size: 1em;
 }
+section{
+  display: flex;
+}
+
+.detailsPokemon{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#finalPokemon{
+  width:15em;
+}
