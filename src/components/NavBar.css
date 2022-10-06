@@ -1,0 +1,17 @@
+.active {
+    color: white;
+}
+.navbar{
+    background-color: #5c5cd7;
+    height: 3em;
+    padding: 0.5em 0em 1em 2em;
+    display: flex;
+    gap:70em;
+    text-decoration: none;
+  }
+  .linksNavbar{
+    margin-top: 2em;
+  }
+  #logo{
+    width:3em;
+  }
